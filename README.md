@@ -28,16 +28,6 @@
 
 ---
 
-<h2>🌀 Currently Feeding the Snake...</h2>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&width=435&lines=Building+cool+projects...;Exploring+AI+and+backend+architecture...;Automating+everything+with+Java+%26+Python!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sanjaysankar2030/sanjaysankar2030/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
-</p>
-
----
 
 <h3 align="center">⚡ Keep coding, keep growing ⚡</h3>
