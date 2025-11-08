@@ -26,9 +26,18 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
 </p>
 
-<h2>Feeding...</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjaysankar2030/sanjaysankar2030/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjaysankar2030/sanjaysankar2030/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sanjaysankar2030/sanjaysankar2030/output/github-contribution-grid-snake.svg">
-</picture>
+---
+
+<h2>🌀 Currently Feeding the Snake...</h2>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&width=435&lines=Building+cool+projects...;Exploring+AI+and+backend+architecture...;Automating+everything+with+Java+%26+Python!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanjaysankar2030/sanjaysankar2030/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+</p>
+
+---
+
+<h3 align="center">⚡ Keep coding, keep growing ⚡</h3>
