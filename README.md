@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Sanjay Sankar from Indian, TamilNadu.<br><br>- 🔭 I currently persue B.Tech Artificial Intelligence and Data Science <br>- 📚 I'm currently learning Java Spring/Spring Boot<br>- ⚡ In my free time I code for fun and learn along the way !</p>
+<p align="left">I'm Sanjay Sankar from India, TamilNadu.<br><br>- 🔭 I currently persue B.Tech Artificial Intelligence and Data Science <br>- 📚 I'm currently learning Java Spring/Spring Boot<br>- ⚡ In my free time I code for fun and learn along the way !</p>
 
 ###
 
