@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Sanjay Sankar</h1>
-<h3 align="center">Aspiring AI Engineer | Java & Spring Boot Developer</h3>
+<h3 align="center">CompSci Student | Java & Spring Boot Developer</h3>
 
 ---
 
