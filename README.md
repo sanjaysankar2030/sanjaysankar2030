@@ -44,8 +44,8 @@ I'm a B.Tech student specializing in Artificial Intelligence & Data Science with
 
 ## Connect With Me
 
-- **Email:** [Email Me ](mailto:sanjaysankar2030@gmail.com
-- **LinkedIn:** [My LinkedIn Profile] (linkedin.com/in/sankarsanjay)
+- **Email:** [Email Me ](mailto:sanjaysankar2030@gmail.com)
+- **LinkedIn:** [linkedin.com/in/sankarsanjay](https://linkedin.com/in/sankarsanjay)
 
 ---
 
