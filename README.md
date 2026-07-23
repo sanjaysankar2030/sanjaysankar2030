@@ -8,28 +8,21 @@
 
 I'm a B.Tech student specializing in Artificial Intelligence & Data Science with a strong passion for backend development. I'm focused on building scalable, robust systems and exploring the intersection of AI with modern backend architecture.
 
-- 🎓 **Education:** B.Tech in Artificial Intelligence & Data Science
-- 💼 **Focus Areas:** Java, Spring Boot, Backend Development, System Design
-- 🔍 **Interests:** Scalable backend systems, cloud infrastructure, data-driven applications
-- ⚡ **Approach:** Building, testing, and optimizing through hands-on coding
-
 ---
 
 ## Technical Skills
 
 ### Backend Development
 - **Languages:** Java, Python
-- **Frameworks & Tools:** Spring Boot, Spring Framework
+- **Frameworks & Tools:** Spring Boot, Spring Framework , Docker ,AWS
 - **Databases:** SQL, Database Design & Optimization
+- 
+---
 
-### Infrastructure & Deployment
-- **Containerization:** Docker
-- **Cloud Platforms:** AWS
-- **Version Control:** Git, GitHub
-
-### Data Science & AI
-- **Core Competencies:** Data Science, Machine Learning fundamentals
-- **Areas of Exploration:** AI-driven backend solutions
+### Certifications 
+- **IBM Java Developer Professional Certificate**
+- **AWS Cloud Practitioner**
+- **Programming with Google Go ** 
 
 ---
 
