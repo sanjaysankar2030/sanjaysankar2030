@@ -16,7 +16,7 @@ I'm a B.Tech student specializing in Artificial Intelligence & Data Science with
 - **Languages:** Java, Python
 - **Frameworks & Tools:** Spring Boot, Spring Framework , Docker ,AWS
 - **Databases:** SQL, Database Design & Optimization
-- 
+ 
 ---
 
 ### Certifications 
