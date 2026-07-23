@@ -22,7 +22,7 @@ I'm a B.Tech student specializing in Artificial Intelligence & Data Science with
 ### Certifications 
 - **IBM Java Developer Professional Certificate**
 - **AWS Cloud Practitioner**
-- **Programming with Google Go ** 
+- **Programming with Google Go** 
 
 ---
 
